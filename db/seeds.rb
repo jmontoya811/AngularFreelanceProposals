@@ -16,4 +16,3 @@
     client_email: 'developmentbtga@gmail.com',
   )
 end
-
